@@ -28,8 +28,8 @@ Le PixelCNN repose sur un empilement de **masked convolution layers** et de **re
 
 3. **Utilisation du Cross-Entropy Loss** :  
    Calcul de la perte entre les prédictions et les valeurs réelles des pixels.
+   
    ![image](https://github.com/user-attachments/assets/bcfbcf3f-a9f8-4bc5-9c1f-ce442bd9ebd7)
-
 
 5. **Optimisation** :  
    Utilisation de l'optimiseur **Adam** pour ajuster les paramètres du modèle.
